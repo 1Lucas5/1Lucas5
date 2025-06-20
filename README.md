@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Miguel, tenho 19 anos e sou natural de Pernambuco. Concluí o ensino médio na ETEPAM, com o curso técnico em Manutenção e suporte em informática. Atualmente, estou cursando Sistemas de Informação na Uninassau. Tenho experiência com Java, JavaScript, HTML, CSS, Node.js, MongoDB e MySQL. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades como desenvolvedor.
+Me chamo Lucas Miguel, tenho 19 anos e sou natural de Pernambuco. Concluí o ensino médio na ETEPAM, com o curso técnico em Manutenção e suporte em informática. Atualmente, estou cursando Sistemas de Informação na Uninassau. Tenho experiência com Java, JavaScript, HTML, CSS, Node.js, python, MongoDB e MySQL. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades como desenvolvedor.
 
 ---
 
@@ -64,6 +64,22 @@ Me chamo Lucas Miguel, tenho 19 anos e sou natural de Pernambuco. Concluí o ens
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDb"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -82,7 +98,7 @@ Me chamo Lucas Miguel, tenho 19 anos e sou natural de Pernambuco. Concluí o ens
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="170" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Lucas5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
