@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Lucas Miguel
+# 👨🏻‍💻 Lucas Miguel
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Miguel, tenho 19 anos e sou natural de Pernambuco. Concluí o ensino médio na ETEPAM, com o curso técnico em Manutenção e suporte em informática. Atualmente, estou cursando Sistemas de Informação na Uninassau. Tenho experiência com Java, JavaScript, HTML, CSS, Node.js, python, MongoDB e MySQL. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades como desenvolvedor.
+Me chamo Lucas Miguel, tenho 19 anos e sou natural de Pernambuco. Concluí o ensino médio na ETEPAM, com formação técnica em Manutenção e Suporte em Informática. Atualmente, curso Sistemas de Informação na Uninassau. Tenho experiência com Java, JavaScript, HTML, CSS, Node.js, Python, MongoDB e MySQL. Estou sempre em busca de novos aprendizados e de aprimorar minhas habilidades como desenvolvedor.
 
 ---
 
@@ -96,10 +96,22 @@ Me chamo Lucas Miguel, tenho 19 anos e sou natural de Pernambuco. Concluí o ens
   />
 
 <img 
-      align="left" 
+      align="left"
+      display: inline-block
       alt="GitHub Stats" 
-      height="170" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Lucas5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 
 </p>
+
+<div align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=1Lucas5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Lucas5&theme=tokyonight&layout=compact&langs_count=5"
+  />
+</div>
