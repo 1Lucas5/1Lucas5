@@ -86,28 +86,11 @@ Me chamo Lucas Miguel, tenho 19 anos e sou natural de Pernambuco. Concluí o ens
 
 ### 📊 Estatísticas
 
-<p>
+
+<div align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=1Lucas5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left"
-      display: inline-block
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Lucas5&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
-
-</p>
-
-<div align="center">
-  <img 
-    height="180em" 
+    height="180em"
+    style="padding-right: 10px;"  
     src="https://github-readme-stats.vercel.app/api?username=1Lucas5&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
   <img 
